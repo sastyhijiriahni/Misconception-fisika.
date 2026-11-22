@@ -19,13 +19,13 @@ from datetime import datetime
 # =========================================================
 
 st.set_page_config(
-    page_title="MISKONSEPTION",
+    page_title="MISCONCEPTION",
     page_icon="🧠",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
-NAMA_APLIKASI = "MISKONSEPTION"
+NAMA_APLIKASI = "MISCONCEPTION"
 
 # Tetap menggunakan database lama
 DATABASE = "misconception"
